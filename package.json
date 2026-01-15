@@ -1,0 +1,31 @@
+{
+    "name": "breaking-bad-theme",
+    "displayName": "Breaking Bad Theme",
+    "description": "Themes inspired by the Blue Sky lab and Los Pollos Hermanos.",
+    "version": "0.0.1",
+    "publisher": "verzi",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Breaking Bad: Heisenberg",
+                "uiTheme": "vs-dark",
+                "path": "./themes/heisenberg-color-theme.json"
+            },
+            {
+                "label": "Breaking Bad: Los Pollos",
+                "uiTheme": "vs",
+                "path": "./themes/los-pollos-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/verzi/breaking-bad-theme"
+    }
+}

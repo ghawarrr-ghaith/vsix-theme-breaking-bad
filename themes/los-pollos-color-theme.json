@@ -1,0 +1,53 @@
+{
+	"name": "Breaking Bad: Los Pollos",
+	"type": "dark",
+	"colors": {
+		"editor.background": "#1F1A05",
+		"editor.foreground": "#E6E6E6",
+		"activityBar.background": "#141002",
+		"activityBar.foreground": "#FFD700",
+		"sideBar.background": "#1A1504",
+		"sideBar.foreground": "#FFD700",
+		"statusBar.background": "#DC143C",
+		"statusBar.foreground": "#E6E6E6",
+		"titleBar.activeBackground": "#141002",
+		"editorCursor.foreground": "#DC143C",
+		"editorLineNumber.foreground": "#605000",
+		"editorLineNumber.activeForeground": "#FFD700",
+		"editor.selectionBackground": "#DC143C40",
+		"list.activeSelectionBackground": "#DC143C",
+		"list.activeSelectionForeground": "#E6E6E6",
+		"focusBorder": "#FFD700"
+	},
+	"tokenColors": [
+		{
+			"name": "Comment",
+			"scope": "comment",
+			"settings": {
+				"foreground": "#806000"
+			}
+		},
+		{
+			"name": "Keyword",
+			"scope": "keyword",
+			"settings": {
+				"foreground": "#FFD700",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "String",
+			"scope": "string",
+			"settings": {
+				"foreground": "#2E8B57"
+			}
+		},
+		{
+			"name": "Function",
+			"scope": "entity.name.function",
+			"settings": {
+				"foreground": "#FFFACD"
+			}
+		}
+	]
+}

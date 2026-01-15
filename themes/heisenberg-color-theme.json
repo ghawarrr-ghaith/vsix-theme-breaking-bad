@@ -1,0 +1,53 @@
+{
+	"name": "Breaking Bad: Heisenberg",
+	"type": "dark",
+	"colors": {
+		"editor.background": "#151A15",
+		"editor.foreground": "#E0FFE0",
+		"activityBar.background": "#0D120D",
+		"activityBar.foreground": "#00BFFF",
+		"sideBar.background": "#101510",
+		"sideBar.foreground": "#2E8B57",
+		"statusBar.background": "#0060A0",
+		"statusBar.foreground": "#E6E6E6",
+		"titleBar.activeBackground": "#0D120D",
+		"editorCursor.foreground": "#00BFFF",
+		"editorLineNumber.foreground": "#204020",
+		"editorLineNumber.activeForeground": "#00BFFF",
+		"editor.selectionBackground": "#00BFFF30",
+		"list.activeSelectionBackground": "#004050",
+		"list.activeSelectionForeground": "#00BFFF",
+		"focusBorder": "#00BFFF"
+	},
+	"tokenColors": [
+		{
+			"name": "Comment",
+			"scope": "comment",
+			"settings": {
+				"foreground": "#406040"
+			}
+		},
+		{
+			"name": "Keyword",
+			"scope": "keyword",
+			"settings": {
+				"foreground": "#E9D71B",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "String",
+			"scope": "string",
+			"settings": {
+				"foreground": "#00BFFF"
+			}
+		},
+		{
+			"name": "Function",
+			"scope": "entity.name.function",
+			"settings": {
+				"foreground": "#E6E6E6"
+			}
+		}
+	]
+}
