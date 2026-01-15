@@ -2,7 +2,7 @@
     "name": "breaking-bad-theme",
     "displayName": "Breaking Bad Theme",
     "description": "Themes inspired by the Blue Sky lab and Los Pollos Hermanos.",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher": "verzi",
     "engines": {
         "vscode": "^1.60.0"
